@@ -1,4 +1,4 @@
 package com.hireGabe.demo.repository;
 
-public interface CommentRepo {
+public interface CommentRepo  {
 }
